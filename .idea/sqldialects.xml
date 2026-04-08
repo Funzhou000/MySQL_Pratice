@@ -5,6 +5,9 @@
     <file url="file://$PROJECT_DIR$/db/DML.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/db/DQL.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/db/FirstQueryFile.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/db/Function.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/db/MultiTableSearch.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/db/Pratice1.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/db/Restrict.sql" dialect="MySQL" />
   </component>
 </project>
