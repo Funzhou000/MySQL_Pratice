@@ -7,7 +7,10 @@
     <file url="file://$PROJECT_DIR$/db/FirstQueryFile.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/db/Function.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/db/MultiTableSearch.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/db/MutiTableSearchPratice.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/db/Pratice1.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/db/Restrict.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/db/TranscationPratice.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/sql/init_practice.sql" dialect="MySQL" />
   </component>
 </project>
