@@ -59,3 +59,18 @@ select sleep(3);
 show variables like'slow_query_log';
 SHOW VARIABLES LIKE 'slow_query_log_file';
 SELECT SLEEP(11);
+
+#profile 详情
+select @@have_profiling;
+#开启profiling
+select @@profiling;
+set profiling =1;
+show profiles;
+select employee.age from employee;
+SELECT SUM(age_alias)
+FROM (
+         SELECT age AS age_alias
+         FROM test.employee
+     ) AS temp_table;
+
+show profile all for query 59;
